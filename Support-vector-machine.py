@@ -1,4 +1,6 @@
 /******************************************************************************
+17g01acs042- Valary Odhiambo and 17g01abt010- Lavina Atieno
+*******************************************************************************
 
 Sentiment Analyzer of Tweets using  Support Vector Machine Algorithm
 
